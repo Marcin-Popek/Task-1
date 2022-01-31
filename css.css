@@ -124,7 +124,7 @@ span {
 }
 
 /* media */
-@media (min-width: 390px) {
+@media (min-width: 390px) and (max-width: 520px) {
   section.header_section {
     height: auto;
     width: 100vw;
